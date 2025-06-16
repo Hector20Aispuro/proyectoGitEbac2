@@ -7,3 +7,5 @@
  */
 
 rootProject.name = 'proyectuGitEbac2'
+
+include 'app'
